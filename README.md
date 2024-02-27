@@ -1,0 +1,2 @@
+# ghost.com
+ghost.com
